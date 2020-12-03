@@ -15,4 +15,4 @@ You don't submit your code, instead you submit the obtained result for the quest
 If you have solutions done in languages like C++, C#, Rust, JavaScript, etc.
 feel free to contribute by making a pull request!
 
-# Happy Christmas! 🎅🎄
+**Happy Christmas! 🎅🎄**
