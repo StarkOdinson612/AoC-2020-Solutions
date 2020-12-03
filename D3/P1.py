@@ -4,7 +4,7 @@ with open('crap.txt', 'r') as f:
 def p1(ri,ru):
   ouch=j=0
   for k in range(0,len(bruv),ri):
-    if bruv[k][j%len(bruv[0])]=='#': ouch+=1
+    ouch+=bruv[k][j%len(bruv[0])]=='#'
     j+=ru
   return ouch
 if __name__=='__main__':
