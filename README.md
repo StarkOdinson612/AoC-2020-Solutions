@@ -1,7 +1,7 @@
 # 🎅🎄 Advent of Code 2020 Solutions
 **Solutions for AoC 2020 (Advent of Code 2020)**!
 
-Both the contributers (radius2703 and rdiussss) are my accounts.
+**Both the contributers (radius2703 and rdiussss) are my accounts.**
 
 If you're interested to join Advent of Code, here's how you join:
 
