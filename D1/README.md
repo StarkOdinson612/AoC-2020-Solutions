@@ -17,7 +17,7 @@ This gets stored to a variable named `n`
 
 The next 2 lines iterates over every permutations of 2 numbers and checks if the sum is equal to `t`.
 
-If the number is found, it assigns a variable called `bruv`to the iterable of the 2 numbers.
+If the number is found, it assigns a variable called `bruv` to the iterable of the 2 numbers.
 
 Since the question stated the product of the 2 numbers which add up to 2020, we take the product of all the elements (2 elements) in the iterable.
 
