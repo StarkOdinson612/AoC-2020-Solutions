@@ -33,7 +33,7 @@ def pid(x):
     return len(x) == 9 and x.isnumeric()
 
 # Creating passport key-value pairs
-with open("List.txt", "r") as f:
+with open("crap.txt", "r") as f:
     lines = f.read().split('\n')
 passports = [{}]
 i = 0
